@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To-Do</string>
+    <string name="update_toolbar">Update To-Do</string>
+    <string name="add">Add</string>
+    <string name="work_to_do">Work To-Do</string>
+    <string name="update">Update</string>
+</resources>

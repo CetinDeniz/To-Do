@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.axuca.todo.view.HomeFragment"
+        android:label="HomeFragment"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_homeFragment_to_editFragment"
+            app:destination="@id/editFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_addFragment"
+            app:destination="@id/addFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/addFragment"
+        android:name="com.axuca.todo.view.AddFragment"
+        android:label="fragment_add"
+        tools:layout="@layout/fragment_add"/>
+
+    <fragment
+        android:id="@+id/editFragment"
+        android:name="com.axuca.todo.view.UpdateFragment"
+        android:label="fragment_edit"
+        tools:layout="@layout/fragment_update" >
+        <argument
+            android:name="toDo"
+            app:argType="com.axuca.todo.model.ToDo" />
+    </fragment>
+</navigation>
