@@ -1,4 +1,2 @@
 # To-Do
-![1](https://user-images.githubusercontent.com/75199061/168429513-7e3563be-8ddc-48af-8f87-12d41fbcfe3c.jpg)
-![2](https://user-images.githubusercontent.com/75199061/168429516-d18dcb7e-63c2-475e-9779-486aac438e4e.jpg)
-![3](https://user-images.githubusercontent.com/75199061/168429518-9e80ceab-c610-4867-9086-984153284215.jpg)
+<img src="https://user-images.githubusercontent.com/75199061/168429653-9dd374b0-24d7-4ef9-9654-7cb5cfcaa110.jpg" alt="drawing" width="300"/><img src="https://user-images.githubusercontent.com/75199061/168429657-c3f6112e-89f2-4b78-a6db-ae12c7f2f289.jpg" alt="drawing" width="300"/><img src="https://user-images.githubusercontent.com/75199061/168429659-896acca2-a254-44b4-9957-8dbf2c1c3578.jpg" alt="drawing" width="300"/>
